@@ -13,7 +13,7 @@ import statsmodels.api as sm
 from statsmodels.tsa.stattools import adfuller
 #TITLE
 
-app_name = 'Stock Market Prediction'
+app_name = 'TATIAB'
 st.title(app_name)
 st.subheader('This Website was designed to predict stock market price for Selected MNC')
 
